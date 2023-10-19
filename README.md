@@ -1,1 +1,1 @@
-# WB20exercises
+# WB2-exercises
